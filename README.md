@@ -28,19 +28,20 @@ Currently deep-diving into:
   Fast, neutral Bible chatbot — strict original-language RAG, zero theological spin, edge-optimized & free-tier.  
   *Tech:* TypeScript · Groq · Vercel Edge · Hybrid RAG · HuggingFace · Streaming
 
-- **[KnowBear](https://github.com/voidcommit-afk/know-bear)** (live: knowbear.vercel.app)  
+- **[KnowBear](https://github.com/voidcommit-afk/know-bear)**  
   Any topic, your level — toddler explanations ↔ teen ↔ meme-style breakdowns. Model routing + real-time search.  
   *Tech:* Vite · TypeScript · Groq ensemble · Tavily/Serper/Exa · Redis · Mermaid diagrams
+
 
 - **[AI Slop Detector](https://github.com/voidcommit-afk/ai-slop-detector)**  
   Privacy-first Chrome extension — local ensemble ML to detect AI-generated images/video frames. No uploads, ever.  
   *Tech:* Chrome MV3 · FastAPI · HuggingFace Transformers · Torch (CPU) · Model ensemble
 
-- **[VexTube](https://github.com/voidcommit-afk/VexTube)**  
+- **[VexTube](https://github.com/voidcommit-afk/VexTube)**
   Distraction-free YouTube learning player + simultaneous rich note-taking (Markdown, KaTeX, code blocks, PDF export).  
   *Tech:* Next.js 16 · React 19 · YouTube API · Supabase · Tailwind · Radix UI
 
-- **[DailyThoughts](https://github.com/voidcommit-afk/Daily-Journal)**  
+- **[DailyThoughts](https://github.com/voidcommit-afk/Daily-Thoughts)** 
   Private, invite-only shared journaling app for couples & close friends.  
   *Tech:* Next.js · TypeScript · Supabase Auth + Postgres
 
