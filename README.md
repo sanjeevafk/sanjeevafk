@@ -1,120 +1,59 @@
-<div align="center">
+# Sanjeev Kumar
 
-  <h1>Hi! I'm Sanjeev 👋</h1>
-  <p>I love to build cool stuff.</p>
+Building sleek, production-grade end-to-end systems.  
 
-</div>
+### My routine 
+**Build → Ship → Learn** — fast, repeat.
 
-I build sleek, end-to-end systems driven by utility and personal taste.  
+### What I do
+I treat LLMs as force multipliers to compress weeks of architecture and planning into hours, then ship clean, useful products.
 
-My process is a high-velocity loop: **Build → ship → learn**. Repeat.
+**Currenly:**  
+- Learning distributed systems & software design patterns  
+- Pushing free-tier coding agents to their absolute limits
 
----
+## Selected Projects
 
-### Craft
-Low-polish, high-learning experiments across web + AI.  
+**[BibleLM](https://biblelm.vercel.app)** — Fast, neutral Bible chatbot with strict original-language RAG (zero theology, edge-optimized)
 
-I treat LLMs as force multipliers, accelerators for planning, architecting, and iterating complex systems at absurd velocity.
+[GitHub](https://github.com/voidcommit-afk/BibleLM) · TS · Groq · Vercel Edge · Hybrid RAG
 
-Currently deep-diving into:
-- Distributed systems & software design patterns
-- Pushing free-tier coding agents & inference stacks to their absolute limits
+**[KnowBear](https://knowbear.vercel.app)** — Adaptive explainer: toddler ↔ teen ↔ meme-style breakdowns with real-time search & model routing
 
----
+[GitHub](https://github.com/voidcommit-afk/know-bear) · Vite + TS · Groq ensemble · Tavily/Exa · Redis
 
-### Some stuff I built
+**AI Slop Detector** — Privacy-first local AI-image detector Chrome extension (no uploads)  
+[GitHub](https://github.com/voidcommit-afk/ai-slop-detector) · Chrome MV3 · FastAPI · Hugging Face Transformers (CPU ensemble)
 
-- **[BibleLM](https://github.com/voidcommit-afk/BibleLM)**  
-  Fast, neutral Bible chatbot — strict original-language RAG, zero theological spin, edge-optimized & free-tier.  
-  *Tech:* TypeScript · Groq · Vercel Edge · Hybrid RAG · HuggingFace · Streaming
+**[VexTube](https://vextube.vercel.app)** — Distraction-free YouTube learning player with simultaneous rich Markdown notes export  
 
-- **[KnowBear](https://github.com/voidcommit-afk/know-bear)**  
-  Any topic, your level — toddler explanations ↔ teen ↔ meme-style breakdowns. Model routing + real-time search.  
-  *Tech:* Vite · TypeScript · Groq ensemble · Tavily/Serper/Exa · Redis · Mermaid diagrams
+[GitHub](https://github.com/voidcommit-afk/VexTube) · Next.js 16 · React 19 · Supabase
 
+**[DailyThoughts](https://daily-thoughts.vercel.app)** — Private, invite-only shared journaling for couples & close friends
 
-- **[AI Slop Detector](https://github.com/voidcommit-afk/ai-slop-detector)**  
-  Privacy-first Chrome extension — local ensemble ML to detect AI-generated images/video frames. No uploads, ever.  
-  *Tech:* Chrome MV3 · FastAPI · HuggingFace Transformers · Torch (CPU) · Model ensemble
+[GitHub](https://github.com/voidcommit-afk/Daily-Thoughts) · Next.js + Supabase Auth + Postgres
 
-- **[VexTube](https://github.com/voidcommit-afk/VexTube)**
-  Distraction-free YouTube learning player + simultaneous rich note-taking (Markdown, KaTeX, code blocks, PDF export).  
-  *Tech:* Next.js 16 · React 19 · YouTube API · Supabase · Tailwind · Radix UI
+### Leadership & Communication
+18+ months at Toastmasters International  
+- **Vice President of Education** — Planned and directed the club's educational program by scheduling speeches and roles, managing Pathways progress in Base Camp, assigning mentors, tracking member achievements, and ensuring high-quality meeting agendas to support individual growth and club success.  
+- **Secretary** — Maintained accurate club records, took and distributed meeting minutes, managed correspondence and membership rosters, handled officer updates with Toastmasters International, and kept essential documentation organized to keep the club running smoothly.
 
-- **[DailyThoughts](https://github.com/voidcommit-afk/Daily-Thoughts)** 
-  Private, invite-only shared journaling app for couples & close friends.  
-  *Tech:* Next.js · TypeScript · Supabase Auth + Postgres
+These roles sharpened my skills in structured communication, team coordination, and systems-level problem solving: directly transferable to building and shipping complex software projects.
 
-More cooking... 🍳
+### Core Stack (what I actually ship with)
 
----
+**Languages** — TypeScript, Python, JavaScript  
+**Frontend** — React, Next.js, Vite, Tailwind, Radix UI  
+**Backend & Data** — FastAPI, Supabase, PostgreSQL, Redis  
+**AI/Inference** — Groq & Hugging Face
 
-### The Loop
-I treat AI not as a replacement, but as a jet-fuel. 
+### Principles
+- Velocity over perfection  
+- Privacy-first by default  
+- Ruthless pragmatism  
+- Systems thinking  
+- Zero-cost 
+- UX that focuses functionality
 
-I use it to collapse weeks of thinking into hours, then ruthlessly test & ship the output.
-
-
----
-
-### Leadership & Ops
-18+ months at **Toastmasters International**  
-- Vice President of Education  
-- Secretary  
-
-Honed clear technical communication, running meetings, and systems-level problem solving.
-
----
-
-### Stack  
-*(what I ship with most often)*
-
-<div align="center">
-
-#### Languages & Runtimes
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### Frontend & Tooling
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend & Data
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-#### AI & Inference
-![Groq](https://img.shields.io/badge/Groq-FF6600?style=for-the-badge&logo=groq&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-</div>
-
-**Core modes**: 
-- Systems thinking
-- Ruthless pragmatism
-- Privacy-first defaults
-- Velocity over perfection
-- Zero-cost and minimalist
-- UX-focused development
-
----
-
-
-<div align="center">
-
-Questions? DMs open.  
-Let's build something **fast and weird**.
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://ghostdevoid.vercel.app/)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/ghostdevoid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/sanjeev-kumar-449959318//) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeevkumar61700@gmail.com) 
-
-</div>
+DMs open. Let’s build something fast and useful.  
+[Portfolio](https://ghostdevoid.vercel.app/) · [X](https://x.com/ghostdevoid) · [LinkedIn](https://linkedin.com/in/sanjeev-kumar-449959318) 
