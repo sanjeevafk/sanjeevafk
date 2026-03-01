@@ -47,4 +47,4 @@ These roles sharpened my skills in structured communication, team coordination, 
 - UX that focuses functionality
 
 DMs open. Let’s build something fast and useful.  
-[Portfolio](https://ghostdevoid.vercel.app/) · [X](https://x.com/ghostdevoid) · [LinkedIn](https://linkedin.com/in/sanjeev-kumar-449959318) 
+[Portfolio](https://sanjeevkumar.me/) · [X](https://x.com/ghostdevoid) · [LinkedIn](https://linkedin.com/in/sanjeev-kumar-449959318) · [Email](mailto:hello@sanjeevkumar.me) 
