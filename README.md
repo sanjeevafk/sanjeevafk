@@ -18,11 +18,11 @@ I treat LLMs as force multipliers to compress weeks of architecture and planning
 
 | Project | Description | Stack/Links |
 | --- | --- | --- |
-| **[BibleLM](https://biblelm.vercel.app)** | Fast, neutral Bible chatbot with strict original-language RAG (zero theology, edge-optimized) | [GitHub](https://github.com/voidcommit-afk/BibleLM) · TS · Groq · Vercel Edge · Hybrid RAG |
-| **[KnowBear](https://knowbear.vercel.app)** | Adaptive explainer: toddler ↔ teen ↔ meme-style breakdowns with real-time search & model routing | [GitHub](https://github.com/voidcommit-afk/know-bear) · Vite + TS · Groq ensemble · Tavily/Exa · Redis |
-| **AI Slop Detector** | Privacy-first local AI-image detector Chrome extension (no uploads) | [GitHub](https://github.com/voidcommit-afk/ai-slop-detector) · Chrome MV3 · FastAPI · Hugging Face Transformers (CPU ensemble) |
-| **[VexTube](https://vextube.vercel.app)** | Distraction-free YouTube learning player with simultaneous rich Markdown notes export | [GitHub](https://github.com/voidcommit-afk/VexTube) · Next.js 16 · React 19 · Supabase |
-| **[DailyThoughts](https://daily-thoughts.vercel.app)** | Private, invite-only shared journaling for couples & close friends | [GitHub](https://github.com/voidcommit-afk/Daily-Thoughts) · Next.js + Supabase Auth + Postgres |
+| **[BibleLM](https://biblelm.vercel.app)** | Fast, neutral Bible chatbot with strict original-language RAG (zero theology, edge-optimized) | [GitHub](https://github.com/voidcommit-afk/BibleLM)<br>TS · Groq · Vercel Edge · Hybrid RAG |
+| **[KnowBear](https://knowbear.vercel.app)** | Adaptive explainer: toddler ↔ teen ↔ meme-style breakdowns with real-time search & model routing | [GitHub](https://github.com/voidcommit-afk/know-bear)<br>Vite + TS · Groq ensemble · Tavily/Exa · Redis |
+| **AI Slop Detector** | Privacy-first local AI-image detector Chrome extension (no uploads) | [GitHub](https://github.com/voidcommit-afk/ai-slop-detector)<br>Chrome MV3 · FastAPI · Hugging Face Transformers (CPU ensemble) |
+| **[VexTube](https://vextube.vercel.app)** | Distraction-free YouTube learning player with simultaneous rich Markdown notes export | [GitHub](https://github.com/voidcommit-afk/VexTube)<br>Next.js 16 · React 19 · Supabase |
+| **[DailyThoughts](https://daily-thoughts.vercel.app)** | Private, invite-only shared journaling for couples & close friends | [GitHub](https://github.com/voidcommit-afk/Daily-Thoughts)<br>Next.js + Supabase Auth + Postgres |
 
 ### Leadership & Communication
 18+ months at Toastmasters International  
