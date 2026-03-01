@@ -46,5 +46,6 @@ These roles sharpened my skills in structured communication, team coordination, 
 - Zero-cost 
 - UX that focuses functionality
 
+### Contact me
 DMs open. Let’s build something fast and useful.  
 [Portfolio](https://sanjeevkumar.me/) · [X](https://x.com/ghostdevoid) · [LinkedIn](https://linkedin.com/in/sanjeev-kumar-449959318) · [Email](mailto:hello@sanjeevkumar.me) 
