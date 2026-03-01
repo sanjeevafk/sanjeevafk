@@ -1,4 +1,4 @@
-![howtofly-banner](./howtofly-banner.png)
+![howtofly-banner](./howtofly-banner.jpeg)
 
 # Sanjeev Kumar
 
