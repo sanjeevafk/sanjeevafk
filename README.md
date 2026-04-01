@@ -6,7 +6,7 @@ Building sleek, production-grade end-to-end systems.
 
 ### My routine
 
-**Build → Ship → Learn** — fast, repeat.
+**Build → Ship → Iterate → Learn → Repeat**
 
 ### What I do
 
