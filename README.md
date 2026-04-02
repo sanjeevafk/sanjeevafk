@@ -2,7 +2,8 @@
 
 # Sanjeev Kumar
 
-Building sleek, production-grade end-to-end systems.
+### Agentic Enginner 
+> Building sleek, production-grade end-to-end systems.
 
 ### My routine
 
@@ -39,10 +40,10 @@ These roles sharpened my skills in structured communication, team coordination, 
 
 ### Core Stack (what I actually ship with)
 
-**Languages** — TypeScript, Python, JavaScript  
+**Languages** — TypeScript, Python   
 **Frontend** — React, Next.js, Vite, Tailwind, Radix UI  
 **Backend & Data** — FastAPI, Supabase, PostgreSQL, Redis  
-**AI/Inference** — Groq & Hugging Face
+**AI/Inference** — Groq, Hugging Face, OpenAI SDK 
 
 ### Principles
 
@@ -51,7 +52,7 @@ These roles sharpened my skills in structured communication, team coordination, 
 - Ruthless pragmatism
 - Systems thinking
 - Zero-cost
-- UX that focuses functionality
+- UX that focuses on functionality
 
 ### Contact me
 
