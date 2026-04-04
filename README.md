@@ -2,8 +2,8 @@
 
 # Sanjeev Kumar
 
-### Agentic Enginner 
-> Building sleek, production-grade end-to-end systems.
+### Agentic Engineer 
+> Building production-grade systems by leveraging LLMs to compress development cycles from weeks to hours.
 
 ### My routine
 
@@ -15,8 +15,8 @@ I treat LLMs as force multipliers to compress weeks of architecture and planning
 
 **Currenly:**
 
-- Learning distributed systems & software design patterns
-- Pushing free-tier coding agents to their absolute limits
+- Studying distributed systems & software design patterns
+- Pushing coding agents to production constraints
 
 ## Selected Projects
 
